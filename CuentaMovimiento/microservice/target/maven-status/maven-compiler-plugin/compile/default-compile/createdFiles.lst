@@ -1,0 +1,12 @@
+com\cuentamovimiento\microservice\repository\MovimientoRepository.class
+com\cuentamovimiento\microservice\service\MovimientoService.class
+com\cuentamovimiento\microservice\service\CuentaService.class
+com\cuentamovimiento\microservice\controller\CuentaController.class
+com\cuentamovimiento\microservice\repository\CuentaRepository.class
+com\cuentamovimiento\microservice\exception\SaldoException.class
+com\cuentamovimiento\microservice\exception\ErrorResponse.class
+com\cuentamovimiento\microservice\model\Cuenta.class
+com\cuentamovimiento\microservice\MicroserviceApplication.class
+com\cuentamovimiento\microservice\exception\GlobalExceptionHandler.class
+com\cuentamovimiento\microservice\controller\MovimientoController.class
+com\cuentamovimiento\microservice\model\Movimiento.class
